@@ -16,7 +16,7 @@ Improving Deepfake Detection Algorithms and Solving the Generalization Gap.Hande
 **Git Commit Show by Invide**
 Worked as a core team to organize the back-end of the event from streaming the live stream to helping develop the "The Git Commit Show website".
 I also hosted a few fun quizzes and events throughout the event.
-## PROJECTS
+# PROJECTS
 **Deep Fake Detection** 
 >Group project in team of 50
 
@@ -62,10 +62,12 @@ Completed the 10 weeks course with case studies and projects. Gained expertise i
 ## Education
 ***Bachelor of Technology in Computer Science
 UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY, MAHARSHI DAYANAND UNIVERSITY, ROHTAK***
+
+
 _August2019 -- Ongoing_
 ## Technical Skills
 ```
-_Python
+Python
 C++
 C
 HTML
