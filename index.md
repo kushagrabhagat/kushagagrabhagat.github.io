@@ -107,8 +107,8 @@ I'm currently looking for full-time and part-time Software Engineering or Fronte
 
 
 
-Check out my [LinkedIN](https://www.linkedin.com/in/kushagrabhagat/).
-Check out my [Github](https://github.com/kushagrabhagat).
-Check out my [Twitter](https://www.twitter.com/kushagrabhagat/).
+**Check out my [LinkedIN](https://www.linkedin.com/in/kushagrabhagat/)**
+**Check out my [Github](https://github.com/kushagrabhagat)**
+**Check out my [Twitter](https://www.twitter.com/kushagrabhagat/)**
 
 
