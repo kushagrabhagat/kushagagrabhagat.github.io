@@ -56,7 +56,7 @@ _HTML_
 **Neural Networks and Deep Learning**
 >Coursera
 Learned about Deep Learning, Artificial Neural Network, Back-propagation, Python Programming and Neural Network Architecture.
-**PH526x: Using Python for Research  Harvard University}{ Harvard University**
+**PH526x: Using Python for Research**
 >Harvard University
 Completed the 10 weeks course with case studies and projects. Gained expertise in advance Python skills with various case studies chosen for their scientific breadth, with python advance modules as NumPy, Matplotlib, Pyplot, etc. and their coverage of different Python features.
 ## Education
