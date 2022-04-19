@@ -24,9 +24,11 @@ I also hosted a few fun quizzes and events throughout the event.
 Built a Machine Learning algorithm for Deepfake detection with excellent
 generalization performance. The team built multiple models, modified
 algorithms and fine-tuned them using different data-sets.
-Deep learning     Machine Learning
+```
+- Deep learning     
+- Machine Learning
    
-``` 
+ 
 
 
 **Breasty** 
@@ -35,29 +37,31 @@ Deep learning     Machine Learning
 ```
 Made all in one solution project for breast cancer.
 Participated in National level hackathon named Hack4she and got shortlisted into top 7.
-Django
-Javascript
-HTML
-NLP
-CSS
-Bootstrap
-Figma
 ```
+- Django
+- Javascript
+- HTML
+- NLP
+- CSS
+- Bootstrap
+- Figma
+
 **Virtual Portfolio**
 >Individual
 ```
-Made a personal website to showcase my work and skills using Reactjs and GitHub APIs and hosted over GitHub pages
-JavaScript
-CSS
-HTML
+Made a personal website to showcase my work and skills using Reactjs and GitHub APIs and hosted over GitHub pages.
 ```
+- JavaScript
+- CSS
+- HTML
+
 
 ## CERTIFICATIONS
 **Neural Networks and Deep Learning**
-Coursera
-Learned about Deep Learning, Artificial Neural Network, Back-propagation, Python Programming and Neural Network Architecture.
-**PH526x: Using Python for Research**
->HarvardUniversity
+Coursera <br/>
+Learned about Deep Learning, Artificial Neural Network, Back-propagation, Python Programming and Neural Network Architecture.<br/>
+**PH526x: Using Python for Research**<br/>
+HarvardUniversity <br/>
 Completed the 10 weeks course with case studies and projects. Gained expertise in advance Python skills with various case studies chosen for their scientific breadth, with python advance modules as NumPy, Matplotlib, Pyplot, etc. and their coverage of different Python features.
 
 
@@ -68,36 +72,32 @@ UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY, MAHARSHI DAYANAND UNIVERSITY
 
 _August2019 -- Ongoing_
 ## Technical Skills
-```
+
 - Python
 - C++
-C
-HTML
-CSS
-NLP
-OpenCV
-Cloud
-MySQL
-XML
-beautiful-soup
-Git
-Figma
-JS
-Java
-```
+- C
+- HTML
+- CSS
+- NLP
+- OpenCV
+- Cloud
+- MySQL
+- XML
+- beautiful-soup
+- Git
+- Figma
+- JS
+- Java
+
 ## Achievements
-**Top 7 at national level**  
-
-Got shortlisted for Top 7 teams at national level for Hack4she Hackathon
-**Won 1st Rank at state level**  
-
-Got 1st rank at state level for GirlScript Haryana Hackathon
-**2nd rank  in Codeathon**  
-
-Bagged Second rank in UIET Codeathon(Data Structures and Algorithms based problem solving contest) organised by Cipher Schools  (university level)
-**Golden Badge**  
-
-Earned golden badge in Python and C++ @ HackerRank
+- **Top 7 at national level**<br/>
+Got shortlisted for Top 7 teams at national level for Hack4she Hackathon <br/>
+- **Won 1st Rank at state level** <br/>
+Got 1st rank at state level for GirlScript Haryana Hackathon <br/>
+- **2nd rank  in Codeathon**  <br/>
+Bagged Second rank in UIET Codeathon(Data Structures and Algorithms based problem solving contest) organised by Cipher Schools (university level)<br/>
+- **Golden Badge**  <br/>
+Earned golden badge in Python and C++ @ HackerRank <br/>
 ## Communities
 -Innovation and Design Lead (UIET Developer Student Club)
 -Public Relation Head(GirlScript Foundation)
@@ -115,8 +115,8 @@ I'm currently looking for full-time and part-time Software Engineering or Fronte
 
 
 
-**Check out my [LinkedIN](https://www.linkedin.com/in/kushagrabhagat/)**
-**Check out my [Github](https://github.com/kushagrabhagat)**
-**Check out my [Twitter](https://www.twitter.com/kushagrabhagat/)**
+- **Check out my [LinkedIN](https://www.linkedin.com/in/kushagrabhagat/)**
+- **Check out my [Github](https://github.com/kushagrabhagat)**
+- **Check out my [Twitter](https://www.twitter.com/kushagrabhagat/)**
 
 
