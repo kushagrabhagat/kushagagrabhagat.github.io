@@ -1,4 +1,4 @@
-
+# Hey I am Kushagra Bhagat
 
 ## About Me
 I’m currently pursuing my bachelors in Technology at U.I.E.T. Maharishi Dayanand University in Computer Science and Engineering.
@@ -14,8 +14,10 @@ Improving Deepfake Detection Algorithms and Solving the Generalization Gap.Hande
 
 ### Developer Evangelist
 **Git Commit Show by Invide**
+
 Worked as a core team to organize the back-end of the event from streaming the live stream to helping develop the "The Git Commit Show website".
 I also hosted a few fun quizzes and events throughout the event.
+
 # PROJECTS
 **Deep Fake Detection** 
 >Group project in team of 50
@@ -58,11 +60,11 @@ and hosted over GitHub pages.
 
 
 ## CERTIFICATIONS
-**Neural Networks and Deep Learning**
-Coursera <br/>
+**Neural Networks and Deep Learning**<br/>
+_Coursera_<br/>
 Learned about Deep Learning, Artificial Neural Network, Back-propagation, Python Programming and Neural Network Architecture.<br/>
 **PH526x: Using Python for Research**<br/>
-HarvardUniversity <br/>
+_HarvardUniversity_ <br/>
 Completed the 10 weeks course with case studies and projects. Gained expertise in advance Python skills with various case studies chosen for their scientific breadth, with python advance modules as NumPy, Matplotlib, Pyplot, etc. and their coverage of different Python features.
 
 
