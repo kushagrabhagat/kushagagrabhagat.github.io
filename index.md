@@ -1,4 +1,4 @@
-# Hey, I am Kushagra Bhagat :ghost:
+# Hey, I am Kushagra Bhagat 
 
 ## About Me
 I’m currently pursuing my bachelors in Technology at U.I.E.T. Maharishi Dayanand University in Computer Science and Engineering.
