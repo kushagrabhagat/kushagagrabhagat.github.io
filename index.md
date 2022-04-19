@@ -1,4 +1,4 @@
-# Hey I am Kushagra Bhagat
+
 
 ## About Me
 I’m currently pursuing my bachelors in Technology at U.I.E.T. Maharishi Dayanand University in Computer Science and Engineering.
@@ -49,7 +49,8 @@ Participated in National level hackathon named Hack4she and got shortlisted into
 **Virtual Portfolio**
 >Individual
 ```
-Made a personal website to showcase my work and skills using Reactjs and GitHub APIs and hosted over GitHub pages.
+Made a personal website to showcase my work and skills using Reactjs and GitHub APIs 
+and hosted over GitHub pages.
 ```
 - JavaScript
 - CSS
