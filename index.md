@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Hey I am Kushagra Bhagat
 
-You can use the [editor on GitHub](https://github.com/kushagrabhagat/kushagagrabhagat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+I’m currently pursuing my bachelors in Technology at U.I.E.T. Maharishi Dayanand University in Computer Science and Engineering.
+I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering.
+In my free time I like working on open source projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## EXPERIENCE
+### Jr. Machine Learning Engineer 
+**OM Dena**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Improving Deepfake Detection Algorithms and Solving the Generalization Gap.Handeled and lead the team for the task modelling.
 
-```markdown
-Syntax highlighted code block
+### Developer Evangelist
+**Git Commit Show by Invide**
+Worked as a core team to organize the back-end of the event from streaming the live stream to helping develop the "The Git Commit Show website".
+I also hosted a few fun quizzes and events throughout the event.
+## PROJECTS
+**Deep Fake Detection** 'Group project in team of 50'
+Built a Machine Learning algorithm for Deepfake detection with excellent
+generalization performance. The team built multiple models, modified
+algorithms and fine-tuned them using different data-sets.
+**Breasty** 'Group project in team of 5'
+Made all in one solution project for breast cancer.
+Participated in National level hackathon named Hack4she and got shortlisted into top 7.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Check out my [LinkedIN](https://www.linkedin.com/in/kushagrabhagat/).
+Check out my [Github](https://github.com/kushagrabhagat).
+Check out my [Twitter](https://www.twitter.com/kushagrabhagat/).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kushagrabhagat/kushagagrabhagat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
