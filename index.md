@@ -24,8 +24,8 @@ I also hosted a few fun quizzes and events throughout the event.
 Built a Machine Learning algorithm for Deepfake detection with excellent
 generalization performance. The team built multiple models, modified
 algorithms and fine-tuned them using different data-sets.
-_Deep learning_    _Machine Learning_
-
+Deep learning     Machine Learning
+   
 ``` 
 
 
@@ -35,26 +35,26 @@ _Deep learning_    _Machine Learning_
 ```
 Made all in one solution project for breast cancer.
 Participated in National level hackathon named Hack4she and got shortlisted into top 7.
-_Django_
-_Javascript_
-_HTML_
-_NLP_
-_CSS_
-_Bootstrap_
-_Figma_
+Django
+Javascript
+HTML
+NLP
+CSS
+Bootstrap
+Figma
 ```
 **Virtual Portfolio**
 >Individual
 ```
 Made a personal website to showcase my work and skills using Reactjs and GitHub APIs and hosted over GitHub pages
-_JavaScript_
-_CSS_
-_HTML_
+JavaScript
+CSS
+HTML
 ```
 
 ## CERTIFICATIONS
 **Neural Networks and Deep Learning**
->Coursera
+Coursera
 Learned about Deep Learning, Artificial Neural Network, Back-propagation, Python Programming and Neural Network Architecture.
 **PH526x: Using Python for Research**
 >HarvardUniversity
