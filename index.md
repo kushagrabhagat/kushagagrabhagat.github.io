@@ -59,6 +59,8 @@ Learned about Deep Learning, Artificial Neural Network, Back-propagation, Python
 **PH526x: Using Python for Research**
 >HarvardUniversity
 Completed the 10 weeks course with case studies and projects. Gained expertise in advance Python skills with various case studies chosen for their scientific breadth, with python advance modules as NumPy, Matplotlib, Pyplot, etc. and their coverage of different Python features.
+
+
 ## Education
 ***Bachelor of Technology in Computer Science
 UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY, MAHARSHI DAYANAND UNIVERSITY, ROHTAK***
@@ -67,8 +69,8 @@ UNIVERSITY INSTITUTE OF ENGINEERING AND TECHNOLOGY, MAHARSHI DAYANAND UNIVERSITY
 _August2019 -- Ongoing_
 ## Technical Skills
 ```
-Python
-C++
+- Python
+- C++
 C
 HTML
 CSS
@@ -84,13 +86,17 @@ JS
 Java
 ```
 ## Achievements
-**Top 7 at national level**
+**Top 7 at national level**  
+
 Got shortlisted for Top 7 teams at national level for Hack4she Hackathon
-**Won 1st Rank at state level**
+**Won 1st Rank at state level**  
+
 Got 1st rank at state level for GirlScript Haryana Hackathon
-**2nd rank  in Codeathon**
+**2nd rank  in Codeathon**  
+
 Bagged Second rank in UIET Codeathon(Data Structures and Algorithms based problem solving contest) organised by Cipher Schools  (university level)
-**Golden Badge**
+**Golden Badge**  
+
 Earned golden badge in Python and C++ @ HackerRank
 ## Communities
 -Innovation and Design Lead (UIET Developer Student Club)
